@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/DanielGuachamin/Contador_de_palabras_desde_un_
 Chone
 https://raw.githubusercontent.com/DanielGuachamin/Contador_de_palabras_desde_un_archivo_txt/master/Ciudad2_Chone.PNG
 A continuación se presentan las imágenes que confirman el funcionamiento adecuado de este script:
-https://raw.githubusercontent.com/DanielGuachamin/AD_Examen_PrimerBimestre/master/EjecucionCorrecta_Script1.PNG
+https://raw.githubusercontent.com/DanielGuachamin/AD_Examen_PrimerBimestre/master/Capturas/EjecucionCorrecta_Script1.PNG
 Esto tambien puede comprobarse mediante la captura de CouchDB:
 https://raw.githubusercontent.com/DanielGuachamin/AD_Examen_PrimerBimestre/master/CouchDB_BDciudades.PNG
 

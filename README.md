@@ -5,7 +5,7 @@ que funcione adecuadamente la conexion con couchDB y las funciones de la API de 
 
 Para este ejercicio se uso la ubicacion de 3 ciudades diferentes:
 Guadalajara
-https://raw.githubusercontent.com/DanielGuachamin/Contador_de_palabras_desde_un_archivo_txt/master/Ciudad1_Guadalajara.PNG
+![Ciudad1_Guadalajara](https://user-images.githubusercontent.com/66534512/127725268-d8a0a49d-3193-4af8-b73f-7d1d41c992a1.PNG)
 Acapulco
 https://raw.githubusercontent.com/DanielGuachamin/Contador_de_palabras_desde_un_archivo_txt/master/Ciudad2_Acapulco.PNG
 Chone
